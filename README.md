@@ -1,6 +1,6 @@
 <h2 align="center">RUSSIAN ROULETTE ANDROID PROJECT</h2>
 
-<p align="center">This project simulates an application that runs a russian roulette app on android: </p>
+<p align="center">This project simulates an application that runs a russian roulette on android: </p>
 
 ---
 
